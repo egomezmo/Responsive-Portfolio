@@ -285,13 +285,17 @@ input[type=submit] {
   @media screen and (max-width: 640px) {
     
     #logo {
-      width: 100%;
+      width: 600px;
+      margin-left: 20px;
+      margin-right: 20px;
     }
 
     nav {
       float:left;
-      margin:10px auto;
-      width: 280px;
+      width: 600px;
+      margin-top:20px;
+      margin-left: 20px;
+      margin-right: 20px; 
     }
     
     nav a {
@@ -313,7 +317,7 @@ input[type=submit] {
     }
    
     #main-container {
-      padding:160px 20px 20px 20px;
+      padding:140px 20px 20px 20px;
       width:100%;
     }
 
